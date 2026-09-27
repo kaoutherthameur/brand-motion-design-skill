@@ -1,0 +1,16 @@
+{
+  "name": "brand-motion-design-skill",
+  "owner": {
+    "name": "Raed Ouerfelli"
+  },
+  "metadata": {
+    "description": "A Claude Code skill for showreel-grade brand motion videos in code, with HyperFrames and Three.js."
+  },
+  "plugins": [
+    {
+      "name": "brand-motion-design",
+      "source": "./plugins/brand-motion-design",
+      "description": "Showreel-grade motion films for any brand or small business (launch, feature, promo, teaser, social proof, event, before/after, product showcase) in code with HyperFrames and Three.js, from a brand book, a website URL or a few questions, with your own assets; remembers your brand for the next film."
+    }
+  ]
+}
