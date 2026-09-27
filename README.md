@@ -31,14 +31,14 @@ Based on [product-film](https://github.com/Rieranthony/product-film-skill) by An
 In Claude Code:
 
 ```
-/plugin marketplace add <your-github-user>/brand-motion-design-skill
+/plugin marketplace add ouerf-man/brand-motion-design-skill
 /plugin install brand-motion-design@brand-motion-design-skill
 ```
 
 Or copy the skill folder by hand:
 
 ```bash
-git clone https://github.com/<your-github-user>/brand-motion-design-skill
+git clone https://github.com/ouerf-man/brand-motion-design-skill
 mkdir -p ~/.claude/skills
 cp -R brand-motion-design-skill/plugins/brand-motion-design/skills/brand-motion-design ~/.claude/skills/
 ```
